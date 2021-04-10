@@ -1,3 +1,3 @@
 # Repository for multiple projects
 
-# Simple setup
+Simple setup
